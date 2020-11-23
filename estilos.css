@@ -1,0 +1,27 @@
+.contenedor-imagenes{
+    width: 30%;
+    position: relative;
+    
+}
+#contenedor-imagenes-logoipn{
+    width: 20%;
+
+}
+#contenedor-imagenes-logocecyt img{
+    width: 2600px;
+}
+.texto-portada {
+width: 100%;
+clear: both;
+}
+article{
+    width: 50%;
+    margin: auto;
+
+}
+.modal-dialog-scrollable{
+    width: 60%
+}
+.modal-dialog-centered{
+    width: 60%
+}
